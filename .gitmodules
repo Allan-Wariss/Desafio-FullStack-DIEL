@@ -1,0 +1,3 @@
+[submodule "desafio-diel-taskList-frontend"]
+	path = desafio-diel-taskList-frontend
+	url = https://github.com/Allan-Wariss/desafio-diel-taskList-frontend.git

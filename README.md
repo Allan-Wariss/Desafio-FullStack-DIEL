@@ -1,4 +1,5 @@
 # Desafio DIEL dev FullStack
+-Desafio para a vaga de Estágio em Desenvolvimento Web Full Stack da DIEL
 
 Este é um repositório principal que contém os submódulos para os projetos `desafio-diel-taskList-frontend` e `desafio-diel-taskList-backend`.
 
